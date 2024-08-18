@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "397111530954",
+    "firebase_url": "https://iotz-9165e-default-rtdb.firebaseio.com",
+    "project_id": "iotz-9165e",
+    "storage_bucket": "iotz-9165e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397111530954:android:9b2a74cc1b17cd199f6b33",
+        "android_client_info": {
+          "package_name": "com.example.iotflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlMzuCoH3atcigUIvXexQtPor1LoR1yag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397111530954:android:bab9a05483fc8a959f6b33",
+        "android_client_info": {
+          "package_name": "com.example.ss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlMzuCoH3atcigUIvXexQtPor1LoR1yag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
